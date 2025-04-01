@@ -81,21 +81,21 @@ div.campo > label {
 div.campo > i {
     color: white;
     background-color: #33242A;
-    font-size: 2em;
+    font-size: 1.9em;
     width: 40px;
-    border-radius: 8px;
+    border-radius: 7px;
     padding: 5px;
 }
 
 div.campo > input {
     background-color: #FA9873;
     font-size: 1em;
-    width: calc(100% - 44px);
+    width: calc(100% - 45px);
     height: 100%;
     border: 0px;
-    border-radius: 8px;
+    border-radius: 7px;
     padding: 5px;
-    transform: translateY(-12px);
+    transform: translateY(-10px);
 }
 
 div.campo > input:focus-within {
@@ -130,7 +130,7 @@ form > a.botao {
     background-color: #33242A;
     color: white;
     border: 1px solid white;
-    border-radius: 5px;
+    border-radius: 7px;
     text-decoration: none;
 }
 
